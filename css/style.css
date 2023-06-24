@@ -81,7 +81,7 @@ a{
 }
 .busca form{
     background: #f7f7f7;
-    padding: 7px 29px;
+    padding: 5px;
     color: gray;
     border: 0.5px solid #bbbbbb;
     border-radius: 4px;
@@ -204,6 +204,27 @@ a{
 }
 .register.card{
     padding: 20px;
+}
+
+.red-heart {
+  content: url('/img/red-heart.png');
+  width: 24px;
+}
+
+.search {
+  width: 200px;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.search:hover {
+  box-shadow: 0px 1px 3px black;
+}
+
+#more{
+  cursor: pointer;
 }
 
 @media(max-width:560px){
