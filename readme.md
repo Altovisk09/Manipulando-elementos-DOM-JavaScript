@@ -13,8 +13,10 @@ Basta possuir o Vs Code, Live Server e nodeJS.
 
 ## Telas do projeto
 
+## Telas do home
 ![Página Principal](./img/home.png)
 
+## Telas do homeModificadaPorDOM
 ![Página Principal Modificada](./img/homeModificadaPorDOM.png)
 
 
